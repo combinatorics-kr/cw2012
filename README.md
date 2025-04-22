@@ -1,1 +1,1 @@
-# cw2004
+# 2012 combinatorics workshop 
