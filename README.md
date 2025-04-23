@@ -1,2 +1,2 @@
-# 2012 combinatorics workshop 
-https://cw2012.combinatoris.kr
+# 2012 Combinatorics Workshop 
+https://cw2012.combinatorics.kr
